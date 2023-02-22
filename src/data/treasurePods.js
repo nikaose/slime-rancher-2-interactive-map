@@ -288,124 +288,131 @@ export const treasurePods = {
     embedded: "https://youtu.be/7mpFRKyEcxs?t=781",
     position: [74.22, 44.2]
   },
+  "treasure_39": {
+    name: "Treasure Pod 25",
+    contents: "N/A",
+    description: "N/A",
+    embedded: "",
+    position: [74.32, 72.55]
+  },
 
   // Starlight Strand
-  "treasure_39": {
+  "treasure_40": {
     name: "Treasure Pod 1",
     contents: "Cheerful Statue",
     position: [63.27, 98.30]
   },
-  "treasure_40": {
+  "treasure_41": {
     name: "Treasure Pod 2",
     contents: "Rock Cluster",
     position: [65.05, 86.83]
   },
-  "treasure_41": {
+  "treasure_42": {
     name: "Treasure Pod 3",
     contents: "Stalagmite Cluster",
     position: [67.75, 98.92]
   },
-  "treasure_42": {
+  "treasure_43": {
     name: "Treasure Pod 4",
     contents: "Coastal Rock Pillar",
     position: [65.13, 107.6]
   },
-  "treasure_43": {
+  "treasure_44": {
     name: "Treasure Pod 5",
     contents: "Tank Liner",
     position: [60.35, 119.6]
   },
-  "treasure_44": {
+  "treasure_45": {
     name: "Treasure Pod 6",
     contents: "Veggie Slime Bait",
     position: [61.3, 120.5]
   },
-  "treasure_45": {
+  "treasure_46": {
     name: "Treasure Pod 7",
     contents: "Tall Pink Coral Columns",
     position: [59.31, 122.69]
   },
-  "treasure_46": {
+  "treasure_47": {
     name: "Treasure Pod 8",
     contents: "Storage Cell",
     position: [58.3, 109.99]
   },
-  "treasure_47": {
+  "treasure_48": {
     name: "Treasure Pod 9",
     contents: "Sharp Boulder",
     position: [56.55, 121.81]
   },
-  "treasure_48": {
+  "treasure_49": {
     name: "Treasure Pod 10",
     contents: "Violet Warp Depot",
     position: [57.49, 111.26]
   },
-  "treasure_49": {
+  "treasure_50": {
     name: "Treasure Pod 11",
     contents: "Dash Boot Module",
     position: [51.83, 114.43]
   },
-  "treasure_50": {
+  "treasure_51": {
     name: "Treasure Pod 12",
     contents: "Root Tangle",
     position: [53.3, 116.58]
   },
-  "treasure_51": {
+  "treasure_52": {
     name: "Treasure Pod 13",
     contents: "Cave Pillar",
     position: [55, 124]
   },
-  "treasure_52": {
+  "treasure_53": {
     name: "Treasure Pod 14",
     contents: "Pink Glow Shrooms",
     position: [43.45, 131.3]
   },
-  "treasure_53": {
+  "treasure_54": {
     name: "Treasure Pod 15",
     contents: "Tank Liner",
     position: [43.51, 137.24]
   },
-  "treasure_54": {
+  "treasure_55": {
     name: "Treasure Pod 16",
     contents: "Spring Pad",
     position: [39.57, 125.06]
   },
-  "treasure_55": {
+  "treasure_56": {
     name: "Treasure Pod 17",
     contents: "Starbloom Flowers",
     position: [45.24, 118.74]
   },
-  "treasure_56": {
+  "treasure_57": {
     name: "Treasure Pod 18",
     contents: "Starlight Strand Portal",
     position: [40.31, 116.54]
   },
-  "treasure_57": {
+  "treasure_58": {
     name: "Treasure Pod 19",
     contents: "Power Chip",
     position: [37.3, 95.58]
   },
-  "treasure_58": {
+  "treasure_59": {
     name: "Treasure Pod 20",
     contents: "Tall Violet Swirl Shroom",
     position: [44.55, 107.57]
   },
-  "treasure_59": {
+  "treasure_60": {
     name: "Treasure Pod 21",
     contents: "Azure Shrubs",
     position: [50.56, 104.23]
   },
-  "treasure_60": {
+  "treasure_61": {
     name: "Treasure Pod 22",
     contents: "Azure Mangrove",
     position: [45.42, 112.67]
   },
-  "treasure_61": {
+  "treasure_62": {
     name: "Treasure Pod 23",
     contents: "Novice Gordo Snare",
     position: [50.03, 103.71]
   },
-  "treasure_62": {
+  "treasure_63": {
     name: "Treasure Pod 24",
     contents: "Azure Grass",
     position: [54.92, 98.74]
